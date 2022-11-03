@@ -1,2 +1,3 @@
 # tx-ingestor
-Microservice that ingests 
+
+Microservice that ingests ERC20 transactions for Colony Network Contracts
